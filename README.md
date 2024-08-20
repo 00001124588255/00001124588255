@@ -4,3 +4,5 @@ Meu nome é Lays
 - Utilizo esse espaço para minha organização e
 compartilhamento dos meus projetos desenvolvidos
 ![Gatinho](https://media1.tenor.com/m/r9oRpVQF1_QAAAAC/lovely-cat.gif)
+
+- Estou estudando na [Alura](https://www.alura.com.br)
